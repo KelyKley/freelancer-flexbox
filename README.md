@@ -1,3 +1,3 @@
 # freelancer-flexbox
 gh-pages
-https://kelykley.github.io/app-love-flex/
+https://kelykley.github.io/freelancer-flexbox/
